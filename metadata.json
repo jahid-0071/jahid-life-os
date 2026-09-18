@@ -1,0 +1,6 @@
+{
+  "name": "Life OS",
+  "description": "The Ultimate AI-Powered Productivity Operating System",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
